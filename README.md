@@ -1,6 +1,8 @@
 # Unity King Derby
   This is demo game developed as prove of concept (POC) use Solana blookchain.
 
+  ![demo](https://github.com/solplayground/UnityKingDerby/blob/main/Docs/racingsolana.gif?raw=true)
+
 # What is Solana?
 
 Solana is an open source project implementing a new, high-performance, permissionless blockchain. The Solana Foundation is based in Geneva, Switzerland and maintains the open source project.

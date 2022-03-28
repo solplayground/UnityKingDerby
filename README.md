@@ -1,7 +1,8 @@
 # Unity King Derby Game on Solana
-  This is demo game developed as prove of concept (POC) use Solana blockchain. since it's a very simple game thus it's developed as a single scene game.
+  This is demo game developed as proof of concept (POC) use Solana blockchain. since it's a very simple game thus it's developed as a single scene game.
 
   ![demo](https://github.com/solplayground/UnityKingDerby/blob/main/Docs/racingsolana.gif?raw=true)
+
 
 # What is Solana?
 

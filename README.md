@@ -3,6 +3,14 @@
 
   ![demo](https://github.com/solplayground/UnityKingDerby/blob/main/Docs/racingsolana.gif?raw=true)
 
+   
+  [Android Play Store install](https://play.google.com/store/apps/details?id=com.solanaplayground.horseracing)
+
+Guess I should have chosen a different game for the demo, horse racing is classified as simulated gambling (this game doesn't use real money and it's free),
+it took me some time to get the content rating correct for Android. and for iOS, 
+it cannot be published under my personal developer account.
+
+  ![playstore](https://github.com/solplayground/UnityKingDerby/blob/main/Docs/playstore.png?raw=true)
 
 # What is Solana?
 

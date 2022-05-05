@@ -3,8 +3,10 @@
 
   ![demo](https://github.com/solplayground/UnityKingDerby/blob/main/Docs/racingsolana.gif?raw=true)
 
-   
-  [Android Play Store install](https://play.google.com/store/apps/details?id=com.solanaplayground.horseracing)
+[![Android Play Store install](https://github.com/solplayground/UnityKingDerby/blob/main/Docs/play_store.png?raw=true)](https://play.google.com/store/apps/details?id=com.solanaplayground.horseracing)
+[![Apple App Store install](https://github.com/solplayground/UnityKingDerby/blob/main/Docs/apple_store.png?raw=true)](https://apps.apple.com/app/horse-racing/id1620540324)
+
+
 
 Guess I should have chosen a different game for the demo, horse racing is classified as simulated gambling (this game doesn't use real money and it's free),
 it took me some time to get the content rating correct for Android. and for iOS, 
